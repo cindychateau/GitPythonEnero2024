@@ -3,3 +3,8 @@
 3) git commit -m "Mensaje para el punto guardado"
 4) git remote add origin url-de-github
 5) git push -u origin master/main
+
+Para actualizar:
+2)
+3)
+5)
