@@ -10,3 +10,5 @@ Para actualizar:
 5)
 
 Cambios para VSCode
+
+Estamos aprendiendo a usar Git ! :)
