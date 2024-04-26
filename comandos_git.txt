@@ -12,3 +12,4 @@ Para actualizar:
 Cambios para VSCode
 
 git pull
+Estamos aprendiendo a usar Git ! :)
