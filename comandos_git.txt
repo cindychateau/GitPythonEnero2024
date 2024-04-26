@@ -1,0 +1,1 @@
+1) git init - Iniciliza mi carpeta como repositorio local
